@@ -1,0 +1,17 @@
+{
+    "title":"student",
+    "description":"Reviews about students",
+    "type":"object",
+    "properties":{
+        "name":{
+            "type":"String",
+            "description":"Name of the student"
+        },
+        "age":{
+            "type":"integer",
+            "description":"Age of the student"
+        }
+    },
+
+    "required":["name"]
+}
