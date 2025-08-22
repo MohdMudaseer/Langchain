@@ -3,6 +3,9 @@
 langchain
 langchain-core
 
+#langchain_community
+langchain_community
+
 # OpenAI Integration
 langchain-openai
 openai
@@ -29,3 +32,10 @@ scikit-learn
 # Utilities
 pydantic
 grandalf    # used to draw the flow of execution
+pypdf
+pdfplumber
+pymupdf
+beautifulsoup4
+lxml
+
+
