@@ -9,6 +9,9 @@ langchain_community
 #langchain_experimental
 langchain_experimental
 
+#vector db
+langchain_chroma
+
 # OpenAI Integration
 langchain-openai
 openai
@@ -23,6 +26,7 @@ google-generativeai
 # Hugging Face Integration
 langchain-huggingface
 transformers
+sentence-transformers
 huggingface-hub
 
 # Environment Variable Management
