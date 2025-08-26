@@ -11,6 +11,7 @@ langchain_experimental
 
 #vector db
 langchain_chroma
+faisss-cpu
 
 # OpenAI Integration
 langchain-openai
